@@ -1,2 +1,5 @@
-# Projeto-ProgramacaoOrientadaAObjetos
-Projeto em Java de programação orientada a objetos
+# Projeto - Programação Orientada A Objetos
+
+Projeto em Java desenvolvido em colaboração com @beatrizpinheiro para a matéria de programação orientada a objetos na Universidade Federal de Goiás, no ano de 2021.
+
+O projeto tem como intuito criar um programa que possibilite que estudantes procurem por vagas de estágio e que vagas sejam oferecidas a tais estudantes, através da criação e leitura de um banco de dados em forma de arquivo .txt
